@@ -1,4 +1,4 @@
 
 test
 
-[Back](./index.html)
+[Back](./)
