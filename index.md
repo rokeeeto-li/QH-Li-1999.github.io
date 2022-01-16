@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
-
-### Publications
+## Publications
 I hope there would be filled one day.
 
-### Courses and Projects
-**21 Fall**
+## Courses and Projects
+###21 Fall###
 [Robot Devices, Kinematics, Dynamics, and Control](./Courses_Projects/RDKDC/RDKDC.html)
 
 [Statstical Learning](./Courses_Projects/Statstical_Learning/Statstical_Learning.html)
@@ -13,4 +11,4 @@ I hope there would be filled one day.
 
 
 
-### Blogs
+## Blogs
