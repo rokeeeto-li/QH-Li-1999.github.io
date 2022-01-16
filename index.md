@@ -5,6 +5,6 @@
 ### Courses and Projects
 **21 Fall**
 
-[Computer Vision](./Computer_Vision.html)
+[Computer Vision](./Courses_Projects/Computer_Vision.html)
 
 ### Blogs
