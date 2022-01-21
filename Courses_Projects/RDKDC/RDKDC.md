@@ -9,10 +9,11 @@ of rigid body motion, manipulator kinematics including forward and inverse kinem
 arms, differential kinematics, manipulator dynamics and control. Additional special topics such as trajectory
 generation, actuation, and design issues will be considered as time permits.
 
-## Project Description
+## Projects Description
 
 ### Lab 3
 The report of Lab 3 could be downloaded [here](./Lab3_report.pdf).
+I 
 
 
 ### Final Project
