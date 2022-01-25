@@ -12,8 +12,7 @@ generation, actuation, and design issues will be considered as time permits.
 ## Projects Description
 
 ### Lab 3
-The report of Lab 3 could be downloaded [here](./Lab3_report.pdf).
-I 
+In this assignment, I 
 
 
 ### Final Project
