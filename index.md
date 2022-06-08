@@ -8,7 +8,7 @@ I would like to post details about the courses and projects I have taken. Limite
 [Vision as Bayesian Inference](./Courses_Projects/VBI/VBI.html)  
 ### 21 Fall
 [Robot Devices, Kinematics, Dynamics, and Control](./Courses_Projects/RDKDC/RDKDC.html)  
-[Statstical Learning](./Courses_Projects/Statistical_Learning/Statistical_Learning.html)  
+[Statistical Learning For Engineers](./Courses_Projects/Statistical_Learning/Statistical_Learning.html)  
 [Computer Vision](./Courses_Projects/Computer_Vision/Computer_Vision.html)  
 ### Undergraduate
 Final Year Project  
