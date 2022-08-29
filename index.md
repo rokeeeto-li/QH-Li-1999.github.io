@@ -13,11 +13,14 @@ Firstly, I decied to regiatrate the models. A potential method is getting FPFH f
 I deicde to use open3d or PCL library to process for the next step. If you have any advice about that, please <a href="qihang_li@foxmail.com"> tell </a> me! Appreciate it!  
 
 [Ultrasound-based Facet Joint Insertion Using AR System](./Projects/Facet_Joint_Injection.html)
+This project advised by Dr. Alejandro Martin-Gomez, Sing Chun Lee, and Prof. Nassir Navab.  
+We designed and developed an AR system and Application that works on Microsoft HoloLens 2, which avoids
+the hand-eye coordination in the traditional methods and is more friendly to the recurring patient.  
 
 ### Undergraduate Projects
 Final Year Project  
-Robotics System Programming
-Year 2 Project
+Robotics System Programming  
+Year 2 Project  
 
 ## Courses
 ### 22 Fall
